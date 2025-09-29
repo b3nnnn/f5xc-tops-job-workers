@@ -1,0 +1,3 @@
+boto3
+f5xc_tops_py_client
+https://www.us1.calypsoai.app/backend/v1/sdk/calypsoai-2.49.0-py3-none-any.whl
